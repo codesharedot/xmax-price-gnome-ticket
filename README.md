@@ -1,5 +1,8 @@
-# xmax price gnome ticket 
+# xmax gnome price ticker
 
-Gnome 3 desktop ticker for xmax price with Python and argos. Rename to xmax.1r.60s.py and put in ~/.config/argos
+Get xmax price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/xmax-price-gnome-ticket/](https://codesharedot.github.io/xmax-price-gnome-ticket/)
 
-https://pythonbasics.org
+xmax price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to xmax.1r60s.py and put in ~/.config/argos
